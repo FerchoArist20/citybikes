@@ -2,7 +2,11 @@
   display: flex;
   padding: 25px;
 }
-
+.buttons{
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+}
 .right-side {
   margin-left: 15px;
 }
